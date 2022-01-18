@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h1 align="center">Hi 👋, I'm Pablo</h1> 📊 Student in an economics major
 <h3 align="center">A data analysis and robotic process automation enthusiast fom Brazil</h3>
-- 📊 Student in an economics major
 
 - 🌱 I’m currently learning **python and MySQL**
 
