@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python and MySQL**
 
-- 💬 Ask me about **statics, python and the beatles**
+- 💬 Ask me about **statics, python and paul mccartney**
 
 - 📫 How to reach me **pablo.fucape@gmail.com**
 
