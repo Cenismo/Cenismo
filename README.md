@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pablo.fucape@gmail.com**
 
-- 📊 Student in an economics major
+- 📊 I'm an economics student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
