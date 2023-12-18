@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1> 
-<h3 align="center">A data analysis and robotic process automation enthusiast from Brazil</h3>
+<h3 align="center">A data engineer and robotic process automation enthusiast from Brazil</h3>
 
 - 🌱 I’m currently learning **python and SQL**
 
